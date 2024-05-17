@@ -1,5 +1,5 @@
 {
-  "name": "utils-formatter",
+  "name": "utils-formatter2",
   "version": "1.0.0",
   "description": "A utils package for formatting data",
   "main": "index.js",
@@ -10,11 +10,20 @@
     "type": "git",
     "url": "git+https://github.com/damatomos/utils-formatter"
   },
-  "keywords": ["brasil", "real", "money", "formatter"],
+  "keywords": [
+    "brasil",
+    "real",
+    "money",
+    "formatter"
+  ],
   "author": "damatomos",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/damatomos/utils-formatter/issues"
   },
-  "homepage": "https://github.com/damatomos/utils-formatter#readme"
+  "homepage": "https://github.com/damatomos/utils-formatter#readme",
+  "dependencies": {
+    "lucide-react": "^0.378.0",
+    "utils-formatter2": "^1.0.0"
+  }
 }
